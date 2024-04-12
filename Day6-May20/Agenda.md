@@ -1,4 +1,4 @@
-# Day Six - May 22 - A Focus on Cloud-based CI
+# Day Six - May 20 - A Focus on Cloud-based CI
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
