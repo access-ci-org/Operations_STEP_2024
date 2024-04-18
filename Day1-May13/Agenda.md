@@ -2,9 +2,9 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Winona, JP, Derek, Alex, Tim | PC414 |
+| 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Rob, Vasi, Winona, JP, Derek, Alex, Tim | PC414 |
 | 17:30 | Local Hosts Introduce PICO | Introduction of Host Institution | Vasi | PC414 | 
-| 18:00 | Dinner | Networking and Nurishment | All | TAM121 |
+| 18:00 | Dinner | Networking and Nurishment | All | GC GC 270E1, Bookstore Patio |
 | 19:30 | ACCESS Account Creation, SSH Client Installation, git setup | Prepare ACCESS Accounts and software for Course | Vasi and Rob | PC414| 
 
 ## Presentation Materials
