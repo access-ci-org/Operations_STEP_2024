@@ -2,10 +2,11 @@
 
 | Time | Topic                       | Purpose | Session Lead | Location |
 |------|-----------------------------|---------|--------------|----------|
-| 10:00 | Version Control with Git    | Understanding of Versioning and Basic Git Functionality | Chris | PC414 |
+| 10:00 | Introduction to Jupyter Notebooks    | Navigating a Jupyter Notebook | Rob | PC414 |
+| 11:00 | Version Control with Git | Understanding of Versioning and Basic Git Functionality | Chris | PC414 |
 | 12:00 | Lunch                       | | | | 
-| 13:00 | Resource Provider Spotlight | Intorduction to Ookami | Eva | PC414 | 
-| 14:00 | Introduction to Python      | Basic Understanding of Python Programmiing | Ricardo | PC414 | 
+| 13:00 | Resource Provider Spotlight | Translational Cyberinfrastructure | Miron | PC414 | 
+| 14:00 | Version Control with Git - Continued |  | Chris | PC414 | 
 
 ## Presentation Materials
 
