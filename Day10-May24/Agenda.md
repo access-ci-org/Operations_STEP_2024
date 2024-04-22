@@ -2,10 +2,11 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 10:00 | Tour of Equinix Data Centter | | | | 
-| 12:00 | Lunch | | | |
-| 13:00 | Visit Miami Beach Urban Studio | | | | 
-| 15:30 | Visit the Wolfsonian | | | | 
+| 10:00 | Miami Beach Urban Studio | | | | 
+| 12:00 | Lunch on South Beach | | | |
+| 13:00 | Tour of M1 Equinix Data Center | | | | 
+| 15:30 | Explore Miami | | [MI1](https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/miami-data-centers/mi1)  | |
+| 18:00 | Back to Campus | | | |
 
 ## Presentation Materials
 
