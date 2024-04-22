@@ -2,12 +2,12 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 10:00 | Intro to Cloud Computing | | Aaron |Room PC441 | 
+| 10:00 | Fundementals of Cloud Computing and Open Stack Intro | | Aaron |Room PC441 | 
 | 12:00 | Lunch | | | |
-| 13:00 | Resource Provider Spotlight | Introduction to the Jetstream Resource | Jeremy |Room PC441 | 
-| 13:30 | More on Cloud Computing | | Aaron |Room PC441 | 
+| 13:00 | Resource Provider Spotling | Introduction to the Jetstream2 Resource | Le Mai |Room PC441 | 
+| 13:30 | Launching and Connecting to a VM | | Aaron |Room PC441 | 
 | 14:00 | Break | | |Room PC441 | 
-| 14:30 | Containers and Orchestration | | Aaron |Room PC441 | 
+| 14:30 | Containers | | Aaron |Room PC441 | 
 | 16:00 | Frost Museum | | Vasi | | 
 
 ## Presentation Materials
