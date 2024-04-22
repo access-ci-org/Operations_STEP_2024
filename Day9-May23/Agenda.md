@@ -4,7 +4,7 @@
 |------|-------|---------|--------------|----------|
 | 10:00 | Network Overview | RENs, Basic TCP Dynamics, and Science DMZ Design | Dave | | 
 | 12:00 | Lunch | | | |
-| 13:00 | Network Monitoring and Perfsonar | | Dave | | 
+| 13:00 | Network Monitoring and Perfsonar | | Doug | | 
 | 14:30 | Break | | | | 
 | 15:00 | Data Movement and Network Security| | Dave | | 
 
