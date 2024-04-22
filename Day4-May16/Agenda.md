@@ -8,8 +8,7 @@
 | 13:00 | Resource Provider Spotlight | Introduction to the Bridges Resource | Stephen | PC414 | 
 | 14:00 | Cluster Computing | An introduction to Cluster Computing | Anthony | PC414 | 
 | 14:30 | Break | | | | 
-| 15:00 | Computational Infrastructures | Intro to Computational infrastructures | Rob | PC414 | 
-| 16:00 | High Performance and High Throughput Computing | Introduction to HPC and HTC | Rob | PC414 |
+| 15:00 | Computational Infrastructures | From your laptop to the cloud and beyond | Rob | PC414 | 
 
 ## Presentation Materials
 AI/ML Slides Coming Soon
