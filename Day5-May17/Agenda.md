@@ -2,9 +2,9 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 10:00 | Computational Infrastructures | More about Computational Infrastructure | Rob | PC414 |
+| 10:00 | CI in Action | [Wall of Wind](https://cee.fiu.edu/research/facilities/wall-of-wind), [Transforming Antennas](https://tac.fiu.edu/stavros-v-georgakopoulos), [RF Communication](https://rfcom.fiu.edu/people/), [Smart Grid Test-Bed](https://energy.fiu.edu/smart-grid-test-bed-laboratory/) | Vasi | |
 | 12:00 | Lunch | | | |
-| 13:00 | Wall of Wind | Expereince Data Collection is Action | Vasi | | 
+| 13:00 | Tour of the Wolfsonian-Florida | [Wolfsonian](https://wolfsonian.org/) | Vasi | | 
 
 ## Presentation Materials
 [XaaS Image](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/XaaS.png)
