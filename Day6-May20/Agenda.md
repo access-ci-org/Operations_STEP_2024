@@ -8,7 +8,7 @@
 | 13:30 | Launching and Connecting to a VM | | Aaron |Room PC441 | 
 | 14:00 | Break | | |Room PC441 | 
 | 14:30 | Containers | | Aaron |Room PC441 | 
-| 16:00 | Frost Museum | | Vasi | | 
+
 
 ## Presentation Materials
 
