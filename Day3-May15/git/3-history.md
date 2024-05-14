@@ -44,7 +44,7 @@ Serves multiple purposes:
 Don't try to type these. Copy and paste.
 
 <!--
-Using a hash as a lookup is called _content addressing_, or content-addressable storage
+Using a hash to look up the contents that create it is called _content addressing_, or content-addressable storage
 -->
 
 ---
@@ -88,16 +88,21 @@ Another purpose of commit hash: cryptographic verification of entire history of 
 
 -->
 
----
 
 - First line is a _concise_ description of the change
 - Optional subsequent lines can include background information
 
 <!--
-First line doesn't need to be a complete sentence. Imagine a caption underneath a photograph in an album. It doesn't say "This is a picture of Billy jumping in the pool"
+First line doesn't need to be a complete sentence.
 
 A commit message can be multiple lines of text.
 -->
+ 
+---
+
+![](media/silly-caption.jpg)
+![](media/terse-caption.jpg)
+
 
 ---
 
@@ -106,9 +111,10 @@ A commit message can be multiple lines of text.
 - One logical change, e.g.:
   - Adding a button to a web page
   - Fixing one bug
-  - Making the same tweak across multiple files
+  - Tidying a messy section of code
+  - Making the same change across multiple files
 
-The contents of a commit should be small enough so that it's easy for another human reviewer to understand what the change is about.
+The contents of a commit should be small enough so that it's easy for another human to read and understand what the change is about.
 
 Have some empathy for your colleagues and your future self.
 

@@ -52,7 +52,7 @@ Who remembers what it means to _clone_ a repository?
 Back in the terminal:
 
 ```shell
-git clone https://github.com/your-github-username/git-workshop
+$ git clone https://github.com/your-github-username/git-workshop
 ```
 
 <!--

@@ -8,35 +8,44 @@
 
 ## Agenda
 
+### Morning Session
+
 | Duration | Module                               |
 |----------|--------------------------------------|
 | 20m      | context and orientation              |
-| 10m      | creating and cloning a git repo      |
-| 20m      | recording changes                    |
-| 10m      | studying history                     |
-| 10m      | break                                |
-| 20m      | working with servers                 |
-| 15m      | contributing to a software project   |
-| 15m      | bonus material / Q&A as time permits |
+| 30m      | creating and cloning a git repo      |
+| 10m      | recording changes                    |
+
+### Afternoon Session
+
+| Duration | Module                               |
+|----------|--------------------------------------|
+| 20m      | recording changes (continued)        |
+| 20m      | studying history                     |
+| 50m      | working with servers                 |
+| 30m      | break                                |
+| 20m      | contributing to a software project   |
+| 20m      | next steps, bonus material, Q&A      |
+
 
 <!--
 Times are squishy, we can adjust as it suits the group.
 
 Anyone can browse to this repo to see the presentation materials. If you look at the Markdown source (raw code view), you can see my speaker notes.
 
-Who here has ever worked on a programming project?
-On your own or for school?
+Who here has ever worked on a programming project? On your own or for school?
 Who here knows what Git does? Not GitHub, just Git.
-Who here has used Git?
 
-Consider pairing students per experience.
+Who here has used Git? If you have, keep your hand up. If your hand is up, look around the room. Are there any tables with no hands raised?
+
+If so, move closer to that table, so that the folks who have never used Git are near someone who has.
 -->
 
 ---
 
 ## Why We Need Version Control
 
-version control : software :: medical records : healthcare
+**version control : software :: medical records : healthcare**
 
 It's irresponsible to practice medicine with no record-keeping.
 
@@ -94,11 +103,11 @@ If you're seeing this project for the first time, how do you know which file to 
 
 Now imagine your little project growing over a few years:
 
-- 157 source code files
-- 31,000 lines of code
+- 177 source code files
+- 37,000 lines of code
 - 25+ community contributors
 - Thousands of hours of work
-- Production system with 1000 users
+- Production system with 2000 users
 
 <!--
 this actually happened to me
@@ -171,10 +180,12 @@ Probably not, but:
     - Time Machine (Mac OS)
     - Shadow copies (Windows)
 
+These record changes in the background. Using Git requires explicitly scoping and annotating changes.
+
 <!--
 These record changes in the background while you build content. You don't have to think about them until you need to look at what has changed.
 
-Git is not like that: Git is for changes that you scope and annotate explicitly. It's kind of like storytelling.
+Git is kind of like storytelling.
 -->
 
 
@@ -189,6 +200,7 @@ Git is not like that: Git is for changes that you scope and annotate explicitly.
     - Good commit scope and messages
 - Rung 3: Working on a development team
     - Multiple remotes, interactive rebase, resolving merge conflicts
+    - Understanding Git's _directed acyclic graph_ data model
 - Rung 4: Maintaining a software project with many contributors
     - Building ecosystem of git-based workflows, tutoring others
 - ...
@@ -198,7 +210,9 @@ Git is not like that: Git is for changes that you scope and annotate explicitly.
 <https://exosphere.app/docs/contributor-skills/#on-git-skills>
 
 <!--
-This workshop is the briefest introduction. You will leave knowing barely enough to be dangerous. You will git stuck, this is normal!
+There is real computer science behind Git's data model!
+
+This workshop is the briefest introduction. You will leave knowing barely enough to be dangerous. You will git stuck, this is normal.
 -->
 
 ---
@@ -236,7 +250,7 @@ Learn to love plaintext and Markdown. You may die inside a little when someone w
 
 Git is not GitHub.
 
-GitHub is not Git.
+GitHub is Git plus many other services.
 
 - Git is a free and open-source revision control system.
 - GitHub(.com) is a proprietary service built around Git.
@@ -249,9 +263,9 @@ GitHub is not Git.
 <!--
 We can hold hands and say it together.
 
-Git is GPL software, trademark owned by the Software Freedom Conservancy, developed by Linux Kernel developers.
+Git is open-source (GPL) software, trademark owned by the Software Freedom Conservancy, developed by Linux Kernel developers.
 
-GitHub is owned by Microsoft. Several alternatives to GitHub.
+GitHub is owned by Microsoft. There are also several alternatives to GitHub.
 
 This workshop focuses mostly on Git, we use GitHub a little bit near the end.
 -->

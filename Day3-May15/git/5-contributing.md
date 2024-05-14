@@ -10,7 +10,7 @@ In this case, the author happens to be me.
 
 On GitLab this is called a _merge request_, it's the exact same thing.
 
-Usually, but not always, the person who _submits_ the PR is different from the person who _merges_ the PR.
+Often, but not always, the person who _submits_ the PR is different from the person who _merges_ the PR.
 -->
 
 ---

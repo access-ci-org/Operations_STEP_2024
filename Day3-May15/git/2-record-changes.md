@@ -39,7 +39,7 @@ A commit also contains:
 - Timestamp
 - 0, 1, or 2 parent commits
 - Cryptographic hash of entire history
-- Etc
+- Etc.
 
 <!--
 How do we get to a commit?
@@ -66,6 +66,8 @@ This can be loopy: you can continue editing and saving at any time.
 The *working tree* is the directory (tree) of files stored locally on disk, where you _work_ on changes.
 
 The *staging area* is where you move a set of changes that you're about to commit.
+
+(We also say that we're "staging" a file before committing it.)
 
 
 <!--
@@ -134,8 +136,15 @@ Remember you can run `git status` at any time for an overview of what's going on
 
 ---
 
+## Exercise: On your own
+
+Use the commands we just learned to make another file, add some contents, stage it, and make another commit in your repository.
+
+---
+
+
 ## Review: Staging area
 
-The staging area _de-couples_ changes to the working tree  from what we choose to include/exclude in the next commit.
+The staging area _de-couples_ changes to the working tree from what we choose to include/exclude in the next commit.
 
 This allows you to be sloppy with saving files, while still producing neat commits!
