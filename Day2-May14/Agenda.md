@@ -18,5 +18,5 @@
 
 ## Other Helpful Links
    * [Software Carpentry Lesson](https://swcarpentry.github.io/shell-novice/)
-   * [Research Data Allience](https://rd-alliance.org/node)
+   * [Research Data Allience](https://www.rd-alliance.org/about-the-rda/)
    * [CODATA](www.codata.org/)
