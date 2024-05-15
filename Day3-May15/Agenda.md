@@ -17,7 +17,6 @@
 
 ## Lesson Resources (Hands on Activities)
 
-[Miron's Slides from 2023]
 Phillip Enslow article [What is a "distributed" data processing system?](https://ieeexplore.ieee.org/abstract/document/1646676)
 
 [Partnership to Advance Throughput Computing](https://path-cc.io/)
