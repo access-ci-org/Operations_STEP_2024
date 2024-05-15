@@ -5,8 +5,9 @@
 | 10:00 | Introduction to Jupyter Notebooks    | Navigating a Jupyter Notebook | Rob | PC414 |
 | 11:00 | Version Control with Git | Understanding of Versioning and Basic Git Functionality | Chris | PC414 |
 | 12:00 | Lunch                       | | | | 
-| 13:00 | Resource Provider Spotlight | Translational Cyberinfrastructure | Miron | PC414 | 
 | 14:00 | Version Control with Git - Continued |  | Chris | PC414 | 
+| 15:30 | Resource Provider Spotlight | Translational Cyberinfrastructure | Miron | PC414 | 
+| 16:00 | Version Control with Git - Conclusion |  | Chris | PC414 |
 
 ## Presentation Materials
 
@@ -15,7 +16,7 @@
 [Python Slides](https://docs.google.com/presentation/d/175WGoY7wreqT4HSNsBNovBffI_prKIVgDwIgwCga84E/edit#slide=id.g23f49913e7f_0_9n)
 
 ## Lesson Resources (Hands on Activities)
-[Ookami](https://www.stonybrook.edu/commcms/iacs/research/projects/Ookami)
+
 
 ## Other Helpful Links
 [Software Carpentry Git Lesson](https://swcarpentry.github.io/git-novice/)
