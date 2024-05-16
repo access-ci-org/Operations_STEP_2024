@@ -11,16 +11,14 @@
 | 15:00 | Computational Infrastructures | From your laptop to the cloud and beyond | Rob | PC414 | 
 
 ## Presentation Materials
-AI/ML Slides Coming Soon
-
-[Regression Notebook](https://colab.research.google.com/drive/13yrazcufK26jgwMC5uuxk2QqLSx8G15o?usp=sharing)
-
-[Deep Learning Notebook](https://colab.research.google.com/drive/1l4FzyhVUTWBM5svGuSD0JIgG_KwhzRFx?usp=sharing)
-
-[Ethics Review](https://docs.google.com/presentation/d/1DC4KrFLUR8m4oyu60zH2_HOYp2niIjRy/edit?usp=sharing&ouid=110678776512411560114&rtpof=true&sd=true)
+[AI/ML Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/AccessStepAIandMLIntroHandsOn2024v01.pdf)
 
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands on Activities)
+
+[Regression Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/RegressionNotebook2024.ipynb)
+
+[Deep Learning Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/DeepLearning2024.ipynb)
 
 ## Other Helpful Links
 [ACCESS-CI](https://access-ci.org/)
