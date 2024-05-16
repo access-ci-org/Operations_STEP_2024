@@ -15,6 +15,8 @@
 
 [Regression Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/RegressionNotebook2024.ipynb)
 
+[Deep Learning Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/DeepLearning2024.ipynb)
+
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands on Activities)
 
