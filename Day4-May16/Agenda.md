@@ -13,7 +13,7 @@
 ## Presentation Materials
 [AI/ML Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/AccessStepAIandMLIntroHandsOn2024v01.pdf)
 
-[Regression Exercise]()
+[Regression Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/RegressionNotebook2024.ipynb)
 
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands on Activities)
