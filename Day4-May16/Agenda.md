@@ -13,9 +13,7 @@
 ## Presentation Materials
 [AI/ML Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/AccessStepAIandMLIntroHandsOn2024v01.pdf)
 
-[Regression Notebook](https://colab.research.google.com/drive/13yrazcufK26jgwMC5uuxk2QqLSx8G15o?usp=sharing)
-
-[Deep Learning Notebook](https://colab.research.google.com/drive/1l4FzyhVUTWBM5svGuSD0JIgG_KwhzRFx?usp=sharing)
+[Regression Exercise]()
 
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands on Activities)
