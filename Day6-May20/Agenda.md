@@ -33,8 +33,11 @@
 [What is Infrastructure as Code (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
 
 
-[Terraform.io](https://www.terraform.io)
+[Opentofu](https://opentofu.org)
 
 [Ansible](https://www.ansible.com)
 
 [Never Install Locally](https://www.youtube.com/watch?v=J0NuOlA2xDc)
+
+#### Deep Dive
+[Containers from Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)
