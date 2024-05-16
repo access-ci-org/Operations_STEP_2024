@@ -11,7 +11,7 @@
 | 15:00 | Computational Infrastructures | From your laptop to the cloud and beyond | Rob | PC414 | 
 
 ## Presentation Materials
-AI/ML Slides Coming Soon
+[AI/ML Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/AccessStepAIandMLIntroHandsOn2024v01.pdf)
 
 [Regression Notebook](https://colab.research.google.com/drive/13yrazcufK26jgwMC5uuxk2QqLSx8G15o?usp=sharing)
 
