@@ -12,9 +12,9 @@
 
 ## Presentation Materials
 
-[Intro to Cloud Computing](01-Intro-to-Cloud-Computing/STEP1-Miami-Apr-2023-JS2-Wells.pptx)
+[Intro to Cloud Computing](01_Fundementals_of_Cloud_Computing_and_Open_Stack_Intro/STEP1-Miami-Apr-2024-JS2-Wells.pptx)
 
-[Introduction to Containers](02-Containers/Wells-2023-Introduction-to-Containers.pptx)
+[Introduction to Containers](02-Containers/Wells-2024-Introduction-to-Containers.pptx)
 
 [Orchestration and Infrastructure as Code](03-Orchestration/wellsaar-Orchestration-and-IaC.pptx)
 
