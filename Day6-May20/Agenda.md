@@ -12,9 +12,9 @@
 
 ## Presentation Materials
 
-[Intro to Cloud Computing](01-Intro-to-Cloud-Computing/STEP1-Miami-Apr-2023-JS2-Wells.pptx)
+[Intro to Cloud Computing](01_Fundementals_of_Cloud_Computing_and_Open_Stack_Intro/STEP1-Miami-Apr-2024-JS2-Wells.pptx)
 
-[Introduction to Containers](02-Containers/Wells-2023-Introduction-to-Containers.pptx)
+[Introduction to Containers](02-Containers/Wells-2024-Introduction-to-Containers.pptx)
 
 [Orchestration and Infrastructure as Code](03-Orchestration/wellsaar-Orchestration-and-IaC.pptx)
 
@@ -33,8 +33,11 @@
 [What is Infrastructure as Code (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
 
 
-[Terraform.io](https://www.terraform.io)
+[Opentofu](https://opentofu.org)
 
 [Ansible](https://www.ansible.com)
 
 [Never Install Locally](https://www.youtube.com/watch?v=J0NuOlA2xDc)
+
+#### Deep Dive
+[Containers from Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)
