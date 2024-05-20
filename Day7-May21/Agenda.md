@@ -9,6 +9,7 @@
 ## Presentation Materials
 
 ## Lesson Resources (Hands on Activities)
+[Regression Notebook in Colab](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day7-May21/Colab_Regression_Spark.ipynb)
 
 ## Other Helpful Links
 
