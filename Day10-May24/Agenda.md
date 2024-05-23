@@ -4,7 +4,7 @@
 |------|-------|---------|--------------|----------|
 | 10:00 | Miami Beach Urban Studio | | | | 
 | 12:00 | Lunch on South Beach | | [MBUS](https://carta.fiu.edu/mbus/) | |
-| 13:00 | Tour of M1 Equinix Data Center | | | | 
+| 13:00 | Visit to Wolfsonian Museum | | | | 
 | 15:30 | Explore Miami | | [MI1](https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/miami-data-centers/mi1)  | |
 | 18:00 | Back to Campus | | | |
 
