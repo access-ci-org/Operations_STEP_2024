@@ -7,7 +7,8 @@
 | 13:00 | Network Monitoring and Perfsonar | | Doug | | 
 | 14:30 | Break | | | | 
 | 15:00 | Data Movement and Network Security| | Dave | | 
-| 16:00 | Frost Museum | | Vasi | | 
+| 16:00 | Frost Museum | | Vasi | |
+| 17:00 | Close Out Session | | Rob | | 
 
 ## Presentation Materials
 
