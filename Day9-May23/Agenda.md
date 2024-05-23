@@ -19,6 +19,10 @@
 
 [Network Security](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day9-May23/STEP%2004%20Network%20Security%202024.pdf)
 
+[Perfsonar Introduction](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day9-May23/pS_Intro_STEP.pdf)
+
+[PerSONAR CLI Testing](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day9-May23/pS%20CLI%20STEP-1.pdf)
+
 ## Lesson Resources (Hands on Activities)
 
 ## Other Helpful Links
