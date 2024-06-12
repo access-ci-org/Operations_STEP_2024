@@ -9,6 +9,7 @@
 | 18:00 | Back to Campus | | | |
 
 ## Presentation Materials
+[Close Out Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day10-May24/CloseOut-Miami-2023.pptx)
 
 ## Lesson Resources (Hands on Activities)
 
